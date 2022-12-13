@@ -1,1 +1,1 @@
-Check Day1_introduction for more details.
+Check Day1_Introduction for more details about Ethical Hacking.
