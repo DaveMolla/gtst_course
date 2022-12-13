@@ -1,1 +1,1 @@
-This is note written while taking the Geez Tech Security Tester course
+Check Day1_introduction for more details.
