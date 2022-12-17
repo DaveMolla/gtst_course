@@ -12,7 +12,7 @@ which your git is hosted on.
 - git config --global user.email 'email'
 - git add .
 - git commit -m 'comment'
-- git push
+- git push -u origin master
 # Markdown
 ## Heading
 - #-> H1
